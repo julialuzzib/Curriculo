@@ -197,6 +197,7 @@ footer {
 
   .skills {
     flex-direction: column;
+    width: 100%;
   }
 
   .skill {
